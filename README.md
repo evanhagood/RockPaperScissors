@@ -11,5 +11,3 @@ The server is a simple program that listens for connections on a specified port.
 ##
 it has been awhile since I have ran this application and I cannot get JavaFX to import correctly. This seems to be a recurring theme with JavaFX and I should have stuck with Swing.
 Anways, I will update this repo with this information when I get it working again.
-
-Why isn't this pushing to the repo?
